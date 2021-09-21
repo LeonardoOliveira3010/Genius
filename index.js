@@ -13,6 +13,6 @@ let shuflerOrder = () =>{
     clickedOrder = []
 
     for(let i in order){
-        let elementColor = 
+        let elementColor = colorOrder
     }
 }
