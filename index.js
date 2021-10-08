@@ -7,12 +7,16 @@ const yellow = document.querySelector('.yellow')
 const red = document.querySelector('.red')
 const green = document.querySelector('.green')
 
-let shuflerOrder = () =>{
-    let colorOrder = Math.floor(Math.random() * 4)
-    order: [order.length] = colorOrder;
-    clickedOrder = []
 
-    for(let i in order){
-        let elementColor = colorOrder
-    }
-}
+
+// let shuflerOrder = () =>{
+//     let colorOrder = Math.floor(Math.random() * 4)
+//     order: [order.length] = colorOrder;
+//     clickedOrder = []
+
+//     for(let i in order){
+//         let elementColor = colorOrder
+//     }
+// }
+
+clickedColor()
